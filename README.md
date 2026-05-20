@@ -19,6 +19,8 @@ para promover conscientização social, aprendizagem interativa e inclusão digi
 presente trabalho apresenta uma análise sobre acessibilidade digital no Brasil,
 abordando diretrizes do eMAG e WCAG, além de estudos de caso nacionais
 relacionados à inclusão social.
+
+
 2 OBJETIVOS
 O objetivo geral deste trabalho é analisar os desafios da acessibilidade digital no
 Brasil e propor um protótipo de jogo sério voltado à conscientização sobre inclusão
@@ -28,6 +30,8 @@ a) Pesquisar políticas públicas brasileiras de acessibilidade digital;
 b) Compreender as diretrizes do eMAG e WCAG;
 c) Investigar estudos de caso nacionais;
 d) Desenvolver uma proposta de interface inclusiva baseada em jogos sérios.
+
+
 3 REFERENCIAL TEÓRICO
 O Modelo de Acessibilidade em Governo Eletrônico (eMAG) foi criado pelo
 governo brasileiro para orientar o desenvolvimento de interfaces acessíveis em
@@ -41,6 +45,8 @@ III. Compreensível;
 IV. Robusto.
 Esses princípios auxiliam na criação de sistemas mais inclusivos para pessoas
 com deficiência visual, auditiva, motora e cognitiva.
+
+
 4 ESTUDOS DE CASO BRASILEIROS
 Entre os estudos de caso analisados destacam-se:
 • Portal Gov.br: implementação de ferramentas de acessibilidade e navegação
@@ -51,6 +57,8 @@ automática em Libras;
 adequado, navegação por teclado e compatibilidade com leitores de tela.
 Os casos analisados demonstram que ainda existem barreiras significativas para
 usuários com deficiência em ambientes digitais brasileiros.
+
+
 5 PROPOSTA DO JOGO SÉRIO
 O projeto propõe o desenvolvimento do jogo sério “Acessa Brasil”, cujo objetivo é
 conscientizar os usuários sobre barreiras digitais enfrentadas diariamente por
@@ -70,6 +78,8 @@ Wireframe inclusivo:
 • Compatibilidade com leitores de tela;
 • Feedback visual e sonoro;
 • Linguagem objetiva e simples.
+
+
 6 CONSIDERAÇÕES FINAIS
 Os jogos sérios representam uma importante estratégia para promoção da
 educação inclusiva e da acessibilidade digital. O desenvolvimento de interfaces
@@ -77,6 +87,8 @@ acessíveis contribui diretamente para democratização do acesso à informaçã
 fortalecimento da inclusão social no Brasil.
 Dessa forma, iniciativas relacionadas à IHC devem priorizar o bem-estar humano,
 a diversidade e a redução das barreiras digitais existentes.
+
+
 REFERÊNCIAS
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e
 documentação – referências. Rio de Janeiro: ABNT, 2018.
