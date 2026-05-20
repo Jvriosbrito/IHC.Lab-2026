@@ -8,7 +8,7 @@
 * **Instituição:** CENTRO UNIVERSITÁRIO DE BRASÍLIA – CEUB
 * **Contexto:** IHC LAB – GRANDES DESAFIOS DE IHC NO BRASIL
 * **Tema:** Jogos sérios, acessibilidade digital e inclusão social
-* **Orientadora:** Profa. Kadidja Valéria de Oliveira
+* **Orientadora:** Kadidja Valéria de Oliveira
 * **Aluno:** Joao Victor Rios Brito e Nascimento
 * **RA:** 22400050
 
